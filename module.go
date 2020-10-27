@@ -1,4 +1,4 @@
-package modules
+package logmodule
 
 // Logger func for sample logger
 func Logger() string {
